@@ -1,1 +1,3 @@
-# curso_python_alura_primeira_aplicacao
+# Curso Python Alura - Primeira Aplicação 
+
+aprimorando meus conhecimento na linguagem e praticando para melhor minha lógica
